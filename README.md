@@ -56,3 +56,28 @@
 ### day6
 
 - 增加了错误处理逻辑，实现批量连续爆破
+
+### day6
+
+- 改为终端输入命令执行脚本
+- 修改json请求中的bug
+
+## 使用方法
+
+测试单个url的弱口令
+
+```
+python Weakiller.py -u http://example.com
+```
+
+从txt文件中导入url列表
+
+```
+python Weakiller.py -t urls.txt
+```
+
+从xlsx文件中导入url列表
+
+```
+python Weakiller.py -t urls.xlsx
+```
