@@ -87,8 +87,6 @@ img/
 ## 使用截图
 ![contents](imgs/image-run20250408210651774.png)
 
-[image-20250410181428091](imgs/image-run20250408210651774.png)
+![contents](imgs/image-20250410181428091.png)
 
-[image-20250410181428092](imgs/image-20250410181428091.png)
-
-[image-20250410181428093](imgs/image-rel20250410195130863.png)
+![contents](imgs/image-rel20250410195130863.png)
