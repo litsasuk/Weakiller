@@ -83,8 +83,10 @@ python Weakiller.py -t urls.txt
 ```
 python Weakiller.py -t urls.xlsx
 ```
-
+img/
 ## 使用截图
+![contents](imgs/image-run20250408210651774.png)
+
 [image-20250410181428091](imgs/image-run20250408210651774.png)
 
 [image-20250410181428092](imgs/image-20250410181428091.png)
