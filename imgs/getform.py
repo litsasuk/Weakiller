@@ -152,11 +152,7 @@ class getForm:
                     "//*[contains(normalize-space(text()), 'Log in') or "
                     "contains(normalize-space(.), 'Log in') or "
                     "contains(normalize-space(text()), 'LOGIN') or "
-                    "contains(normalize-space(text()), 'Login') or "
-                    "contains(normalize-space(text()), 'Sign in') or "
-                    "contains(normalize-space(text()), 'SIGN IN') or "
-                    "contains(normalize-space(text()), 'Signin') or "
-                    "contains(normalize-space(.), 'Sign in')]"
+                    "contains(normalize-space(text()), 'Login')]"
                 ))
             )
             print("[INFO] 找到登录按钮 - 策略1")
@@ -169,9 +165,9 @@ class getForm:
                 login_button = WebDriverWait(self.driver, 5).until(
                     EC.element_to_be_clickable((
                         By.XPATH,
-                        "//button[contains(text(), 'Log in') or contains(text(), 'LOGIN') or contains(text(), 'Login') or contains(text(), 'Sign in') or contains(text(), 'SIGN IN') or contains(text(), 'Signin')] | "
-                        "//input[@type='submit' and (contains(@value, 'Log in') or contains(@value, 'LOGIN') or contains(@value, 'Login') or contains(@value, 'Sign in') or contains(@value, 'SIGN IN') or contains(@value, 'Signin'))] | "
-                        "//input[@type='button' and (contains(@value, 'Log in') or contains(@value, 'LOGIN') or contains(@value, 'Login') or contains(@value, 'Sign in') or contains(@value, 'SIGN IN') or contains(@value, 'Signin'))]"
+                        "//button[contains(text(), 'Log in') or contains(text(), 'LOGIN') or contains(text(), 'Login')] | "
+                        "//input[@type='submit' and (contains(@value, 'Log in') or contains(@value, 'LOGIN') or contains(@value, 'Login'))] | "
+                        "//input[@type='button' and (contains(@value, 'Log in') or contains(@value, 'LOGIN') or contains(@value, 'Login'))]"
                     ))
                 )
                 print("[INFO] 找到登录按钮 - 策略2")
@@ -184,7 +180,7 @@ class getForm:
                 login_button = WebDriverWait(self.driver, 5).until(
                     EC.element_to_be_clickable((
                         By.XPATH,
-                        "//*[@role='button' and (contains(text(), 'Log in') or contains(text(), 'LOGIN') or contains(text(), 'Login') or contains(text(), 'Sign in') or contains(text(), 'SIGN IN') or contains(text(), 'Signin'))]"
+                        "//*[@role='button' and (contains(text(), 'Log in') or contains(text(), 'LOGIN') or contains(text(), 'Login'))]"
                     ))
                 )
                 print("[INFO] 找到登录按钮 - 策略3")
