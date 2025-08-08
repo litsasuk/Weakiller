@@ -1,0 +1,7 @@
+https://app.toolpath.com/login
+https://app.toolpath.com/projects
+https://app.toolpath.com/parts/sda4acjj/report
+https://app.toolpath.com/parts/sda4acjj/report/setups
+https://app.toolpath.com/parts/sda4acjj/report/tools
+https://app.toolpath.com/parts/sda4acjj/report/strategy
+https://app.toolpath.com/parts/sda4acjj/report/estimate

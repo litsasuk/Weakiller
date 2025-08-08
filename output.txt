@@ -1,0 +1,141 @@
+
+=== 成功登录并获取源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+成功获取页面数: 6
+源码保存目录: extracted_sources\app.toolpath.com
+时间: 2025-08-07 20:50:14.344921
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:02:17.127429
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:22:52.170686
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/projects
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:24:40.440721
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/parts/sda4acjj/report
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:26:12.729950
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/parts/sda4acjj/report/setups
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:28:07.028056
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/parts/sda4acjj/report/tools
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:30:02.359335
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/parts/sda4acjj/report/strategy
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:31:55.139084
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/parts/sda4acjj/report/setups
+目标页面: https://app.toolpath.com/parts/sda4acjj/report/setups - 已访问
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:44:40.309775
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/parts/sda4acjj/report/setups - 已访问
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 21:54:59.548257
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/parts/rn4ipom7/report/strategy - 已访问
+成功处理页面数: 8
+JavaScript代码块数: 88
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 22:07:42.152811
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/projects - 已访问
+成功处理页面数: 7
+JavaScript代码块数: 77
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-07 22:16:49.560947
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/projects - 已访问
+成功处理页面数: 7
+JavaScript代码块数: 77
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-08 09:36:12.050830
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/projects - 已访问
+成功处理页面数: 7
+JavaScript代码块数: 77
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-08 11:06:39.199437
+==================================================
+
+=== 成功登录并提取JavaScript源码 ===
+网站: https://app.toolpath.com
+登录URL: https://app.toolpath.com/login
+目标页面: https://app.toolpath.com/projects - 已访问
+成功处理页面数: 7
+JavaScript代码块数: 77
+JavaScript保存目录: extracted_sources\app.toolpath.com\javascript
+时间: 2025-08-08 11:18:55.361128
+==================================================
